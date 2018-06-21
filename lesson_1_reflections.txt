@@ -1,0 +1,36 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+    It made work easier.
+    Saves time.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+    If there are many major changes to program then older versions can be helpful if you want to change it back.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+    Pros:
+    	You can save whenever you want.
+    	You can also view previous logical changes if commits are made properly.
+    	Can reduce number of versions of the file.
+
+    Cons:
+    	If a person,if forgetful he may forget and might close it directly,without saving.
+
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+    It allows user to change multiple files for a big project which can involve all the files that the user has defined.It is very usefu for people like website and software developers.(Git)
+    It allows user to change whichever file he wants at a specific time.It is mostly used by people who use only one file at a time or projects which may not depend in all the files created.(Google Docs) 
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log gives all commits to the file while git diff between two files gives all the changes from one file to another file.
+
+How might using version control make you more confident to make changes that could break something?
+
+    You won't make the same mistake again.It can also help you test the program for bugs.If you want to submit a game then you can test it for all kinds of errors and then release it.Also using git checkout only shows the previously saved commit and does not change the whole file.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Open source coding and to learn to use Github for Python.
